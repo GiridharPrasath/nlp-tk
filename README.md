@@ -1,2 +1,2 @@
 # nlp-tk
-A simple web-scraper and wordcloud app
+A simple web-scraper and wordcloud script
